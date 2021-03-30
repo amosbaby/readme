@@ -1,2 +1,5 @@
-# readme
-Introduction
+# 🤓 About Me
+Work at [Tehang](https://github.com/cntehang)
+
+[![Amos's github stats](https://github-readme-stats.vercel.app/api?username=amosbaby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amosbaby)](https://github.com/anuraghazra/github-readme-stats)
