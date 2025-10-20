@@ -1,9 +1,3 @@
-# 🤓 About Me
-Work at [Tehang](https://github.com/cntehang)
-
-[![Amos's github stats](https://github-readme-stats.vercel.app/api?username=amosbaby)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amosbaby)](https://github.com/anuraghazra/github-readme-stats)
-
 name: Generate Snake Animation
 
 on:
@@ -37,6 +31,19 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+# 🤓 About Me
+Work at [Tehang](https://github.com/cntehang)
+
+[![Amos's github stats](https://github-readme-stats.vercel.app/api?username=amosbaby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amosbaby)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 
 
 
